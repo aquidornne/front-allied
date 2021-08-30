@@ -1,24 +1,23 @@
 # front-allied
 
-## Project setup
+Projeto básico relizado com vue-cli utilizando vuex para gerenciamento de estado e axios para comunicação com a api.
+
+## Instalação
 ```
 yarn install
 ```
 
-### Compiles and hot-reloads for development
+### Iniciação
 ```
 yarn serve
 ```
 
-### Compiles and minifies for production
+### Build
 ```
 yarn build
 ```
 
-### Lints and fixes files
+### Lint
 ```
 yarn lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
