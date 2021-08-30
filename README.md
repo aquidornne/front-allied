@@ -1,6 +1,6 @@
 # front-allied
 
-Projeto básico relizado com vue-cli utilizando vuex para gerenciamento de estado e axios para comunicação com a api.
+Projeto básico realizado com vue-cli utilizando vuex para gerenciamento de estado e axios para comunicação com a api.
 
 ## Instalação
 ```
