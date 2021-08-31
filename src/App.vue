@@ -5,7 +5,7 @@
     <b-container class="text-center">
       <img alt="Allied logo" src="./assets/logo.png" style="max-width: 250px" />
 
-      <list :list="list"></list>
+      <list></list>
     </b-container>
   </div>
 </template>
@@ -21,9 +21,7 @@ export default {
     List
   },
   data() {
-    return {
-      list: {}
-    };
+    return {};
   }
 };
 </script>
